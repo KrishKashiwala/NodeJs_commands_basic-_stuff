@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/KrishKashiwala/NodeJs_commands_basic-_stuff/issues"
   },
-  "homepage": "https://github.com/KrishKashiwala/NodeJs_commands_basic-_stuff#readme"
+  "homepage": "https://github.com/KrishKashiwala/NodeJs_commands_basic-_stuff#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
